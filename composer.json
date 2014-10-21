@@ -8,7 +8,6 @@
             "email": "anton@tyutin.ru"
         }
     ],
-    "minimum-stability": "dev",
     "require-dev": {
         "phpspec/phpspec": "~2.0"
     },
