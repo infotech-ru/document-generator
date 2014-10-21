@@ -1,0 +1,23 @@
+{
+    "name": "infotech/document-generator",
+    "description": "Simple document rendering abstraction layer.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anton Tyutin",
+            "email": "anton@tyutin.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require-dev": {
+        "phpspec/phpspec": "~2.0"
+    },
+    "config": {
+        "bin-dir": "bin"
+    },
+    "autoload": {
+        "psr-0": {
+            "Infotech\\DocumentGenerator\\": "src"
+        }
+    }
+}
