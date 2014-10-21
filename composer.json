@@ -1,6 +1,6 @@
 {
     "name": "infotech/document-generator",
-    "description": "Simple document rendering abstraction layer.",
+    "description": "Data processing for document generation",
     "license": "MIT",
     "authors": [
         {
